@@ -3,7 +3,7 @@ from pathlib import Path
 
 from pytest import fixture, mark
 
-from apiclient import ErrorResponse, SuccessResponse
+from apiclient import SuccessResponse
 from ninjaclient import BuildsApi, NinjaConfig
 from ninjaclient.models import *
 
