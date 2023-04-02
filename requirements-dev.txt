@@ -1,4 +1,7 @@
 -r requirements.txt
+black
 pytest
 pytest-asyncio
 pre-commit
+coverage
+pytest-cov
